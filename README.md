@@ -1,4 +1,4 @@
-# Taiyo-AI-Data-Engineering-Assignmentt
+# Taiyo-AI-Data-Engineering-Assignment
 
 About the Task
 Create a scraper to get data from one of the following websites. The scrapper file should be in
