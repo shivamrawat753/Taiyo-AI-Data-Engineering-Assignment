@@ -15,35 +15,34 @@ analytical skills in a short report\
 The submission will be evaluated on the quality of the data output as well as code. Scrapper should be
 well optimized and able to handle large amounts of data. The deadline for the task is 3 days. Upload
 your code in your GitHub repo and push your code for us to evaluate.\
-Learn more about our data standards: https://developer.taiyo.ai/api-doc/StandardLib/\
-Pick only ONE (Either 1 or 2) from below\
+Learn more about our data standards: https://developer.taiyo.ai/api-doc/StandardLib/<br/>
+Pick only ONE (Either 1 or 2) from below<br/>
 1. Time Series Data (Fork Branch and Push your code to: https://github.com/Taiyo-ai/ts-mesh-pipeline)
-Time Series Data Standards (to follow): https://developer.taiyo.ai/api-doc/TimeSeries/
-\● NASA Earth Data: https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api
-\● NOAA World Data: https://www.nnvl.noaa.gov/view/globaldata.html
-\● Bureau of Economic Analysis: Write a generalist harvester that could be scaled across BEA data products
-\● Google Data Commons: Pick a generalist harvester that could be scaled across Data Commons
+Time Series Data Standards (to follow): https://developer.taiyo.ai/api-doc/TimeSeries/<br/>
+● NASA Earth Data: https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api<br/>
+● NOAA World Data: https://www.nnvl.noaa.gov/view/globaldata.html<br/>
+● Bureau of Economic Analysis: Write a generalist harvester that could be scaled across BEA data products<br/>
+● Google Data Commons: Pick a generalist harvester that could be scaled across Data Commons<br/>
 2. Projects and Tenders (Fork Branch and Push your code to:
-https://github.com/Taiyo-ai/pt-mesh-pipeline)\
-Projects and Tenders Data Standards (to follow): https://developer.taiyo.ai/api-doc/ProjectsandTenders/\
-Scrap data for the following sources by getting details of all the tenders present on the website:\
-● World Bank Evaluation and Ratings: https://ieg.worldbankgroup.org/data\
-● China Procurement Sources:\
+https://github.com/Taiyo-ai/pt-mesh-pipeline)<br/>
+Projects and Tenders Data Standards (to follow): https://developer.taiyo.ai/api-doc/ProjectsandTenders/<br/>
+Scrap data for the following sources by getting details of all the tenders present on the website:<br/>
+● World Bank Evaluation and Ratings: https://ieg.worldbankgroup.org/data<br/>
+● China Procurement Sources:<br/>
 ○ https://www.chinabidding.com/en
 ○ http://www.ggzy.gov.cn/
 ○ http://en.chinabidding.mofcom.gov.cn/
 ○ https://www.cpppc.org/en/PPPyd.jhtml
 ○ https://www.cpppc.org:8082/inforpublic/homepage.html#/searchresult
-● E-procurement Government of India: https://etenders.gov.in/eprocure/app\
-Evaluation Guidelines:\
-Evaluation is based on the following parameters:\
-● Web Scraping Standards and Libraries used
-○ Update requirements.txt for packages used in sample solution
-● Modular, DRY Code
-○ Follow Sample/Dummy Projects Directory/Packages Structure
+● E-procurement Government of India: https://etenders.gov.in/eprocure/app<br/>
+Evaluation Guidelines:<br/>
+Evaluation is based on the following parameters:<br/>
+● Web Scraping Standards and Libraries used<br/>
+○ Update requirements.txt for packages used in sample solution<br/>
+● Modular, DRY Code<br/>
+○ Follow Sample/Dummy Projects Directory/Packages Structure<br/>
 ○ Python Packages handling and client.py/main.py for calling different steps/module of
-code is must
-● Config Params or Control Params using External ENV Variables, Unit Tests & Logging Standards
+code is must<br/>
+● Config Params or Control Params using External ENV Variables, Unit Tests & Logging Standards<br/>
 ● Working solution with control of config/Params driven/triggered using client.py/main.py package
-file.
-❖ Kindly find the survey form: Behavioral Survey
+file.<br/>
