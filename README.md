@@ -18,11 +18,11 @@ your code in your GitHub repo and push your code for us to evaluate.\
 Learn more about our data standards: https://developer.taiyo.ai/api-doc/StandardLib/\
 Pick only ONE (Either 1 or 2) from below\
 1. Time Series Data (Fork Branch and Push your code to: https://github.com/Taiyo-ai/ts-mesh-pipeline)
-Time Series Data Standards (to follow): https://developer.taiyo.ai/api-doc/TimeSeries/\
-● NASA Earth Data: https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api\
-● NOAA World Data: https://www.nnvl.noaa.gov/view/globaldata.html\
-● Bureau of Economic Analysis: Write a generalist harvester that could be scaled across BEA data products\
-● Google Data Commons: Pick a generalist harvester that could be scaled across Data Commons\
+Time Series Data Standards (to follow): https://developer.taiyo.ai/api-doc/TimeSeries/
+\● NASA Earth Data: https://www.earthdata.nasa.gov/engage/open-data-services-and-software/api
+\● NOAA World Data: https://www.nnvl.noaa.gov/view/globaldata.html
+\● Bureau of Economic Analysis: Write a generalist harvester that could be scaled across BEA data products
+\● Google Data Commons: Pick a generalist harvester that could be scaled across Data Commons
 2. Projects and Tenders (Fork Branch and Push your code to:
 https://github.com/Taiyo-ai/pt-mesh-pipeline)\
 Projects and Tenders Data Standards (to follow): https://developer.taiyo.ai/api-doc/ProjectsandTenders/\
