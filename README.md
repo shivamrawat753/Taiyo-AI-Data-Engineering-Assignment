@@ -29,11 +29,11 @@ Projects and Tenders Data Standards (to follow): https://developer.taiyo.ai/api-
 Scrap data for the following sources by getting details of all the tenders present on the website:<br/>
 ● World Bank Evaluation and Ratings: https://ieg.worldbankgroup.org/data<br/>
 ● China Procurement Sources:<br/>
-○ https://www.chinabidding.com/en
-○ http://www.ggzy.gov.cn/
-○ http://en.chinabidding.mofcom.gov.cn/
-○ https://www.cpppc.org/en/PPPyd.jhtml
-○ https://www.cpppc.org:8082/inforpublic/homepage.html#/searchresult
+○ https://www.chinabidding.com/en<br/>
+○ http://www.ggzy.gov.cn/<br/>
+○ http://en.chinabidding.mofcom.gov.cn/<br/>
+○ https://www.cpppc.org/en/PPPyd.jhtml<br/>
+○ https://www.cpppc.org:8082/inforpublic/homepage.html#/searchresult<br/>
 ● E-procurement Government of India: https://etenders.gov.in/eprocure/app<br/>
 Evaluation Guidelines:<br/>
 Evaluation is based on the following parameters:<br/>
