@@ -3,7 +3,8 @@
 About the Task
 Create a scraper to get data from one of the following websites. The scrapper file should be in
 the .py format and scrapper must have a single python class which will be called to get the required data.
-The output should be in the csv format. Requirements:
+The output should be in the csv format.__
+Requirements:__
 ● Only pick one of your trial tasks from the sources listed below
 Note: This is also a gauge of which type of data structures you are most comfortable with.
 ● Create scrapper and follow evaluation guidelines below
